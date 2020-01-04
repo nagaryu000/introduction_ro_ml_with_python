@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+ipython = "*"
+scikit-learn = "*"
+pandas = "*"
+pillow = "*"
+jupyterlab = "*"
+mglearn = "*"
+japanize-matplotlib = "*"
+joblib = "*"
+make-blobs = "*"
+graphviz = "*"
+nltk = "*"
+spacy = "*"
+
+[requires]
+python_version = "3.8"
